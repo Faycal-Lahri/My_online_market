@@ -170,22 +170,6 @@ http://localhost:8080/SupermarcheOnline
 
 ---
 
-## 🔐 Comptes de Test
-
-👑 **Super Admin**
-→ `superadmin@supermarche.com` · `Admin@1234`
-
-📦 **Admin Produits**
-→ `produits@supermarche.com` · `Admin@1234`
-
-📊 **Admin Stock**
-→ `stock@supermarche.com` · `Admin@1234`
-
-🛒 **Client**
-→ `client@test.com` · `Client@1234`
-
----
-
 ## 👨‍💻 Équipe
 
 👤 **Bendaoud Adam** — Développeur Full Stack  
