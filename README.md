@@ -2,8 +2,9 @@
 
 ![Status](https://img.shields.io/badge/status-En%20développement-orange)
 ![Java EE](https://img.shields.io/badge/Java%20EE-ED8B00?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JSP](https://img.shields.io/badge/JSP-FF0000?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/license-Academic-blue)
 
 ---
@@ -103,7 +104,7 @@ Elle offre deux espaces distincts :
 ## 🛠️ Stack Technique
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JSP](https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logo=java&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -132,7 +133,6 @@ Elle offre deux espaces distincts :
 - Java JDK 11+
 - Apache Tomcat 9+
 - MySQL 8+
-- Node.js 18+
 - Eclipse IDE (Java EE)
 
 ### Étapes
@@ -154,17 +154,13 @@ private static final String USER = "root";
 private static final String PASSWORD = "votre_mot_de_passe";
 
 # 4. Importer dans Eclipse
-File → Import → Existing Maven Projects
+File → Import → Existing Projects into Workspace
 
 # 5. Configurer Tomcat
 Clic droit projet → Run As → Run on Server
+Sélectionner Apache Tomcat 9
 
-# 6. Installer les dépendances React
-cd src/main/webapp
-npm install
-npm run build
-
-# 7. Accéder à l'application
+# 6. Accéder à l'application
 http://localhost:8080/SupermarcheOnline
 ```
 
@@ -172,9 +168,9 @@ http://localhost:8080/SupermarcheOnline
 
 ## 👨‍💻 Équipe
 
-👤 **Bendaoud Adam** — Développeur Full Stack  
-👤 **Faycal Lahri** — Développeur Full Stack  
-👤 **Mootya Salma** — Développeur Full Stack  
+👤 **Bendaoud Adam** — Développeur Full Stack
+👤 **Faycal Lahri** — Développeur Full Stack
+👤 **Mootya Salma** — Développeur Full Stack
 
 👩‍🏫 **Encadré par :** Mme. Chaimae Zaoui
 
@@ -182,11 +178,13 @@ http://localhost:8080/SupermarcheOnline
 
 ## 📄 Licence
 
-Ce projet est réalisé dans un cadre académique — **2024**.  
+Ce projet est réalisé dans un cadre académique — **2024**.
 Tous droits réservés à l'équipe **Bendaoud · Lahri · Mootya**.
 
 ---
 
 <p align="center">
-  Réalisé avec ❤️ par <strong>Bendaoud Adam · Faycal Lahri · Mootya Salma</strong> — 2024
+  Réalisé avec ❤️ par 
+  <strong>Bendaoud Adam · Faycal Lahri · Mootya Salma</strong> 
+  — 2024
 </p>
